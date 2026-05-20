@@ -112,16 +112,6 @@
 
 ---
 
-## 🤝 贡献
-
-欢迎提交 Issue 和 Pull Request 来改进这个工作流配置！
-如果你有更好的提示词优化方案，请随时分享。
-
-## 📄 License
-
-本项目文档遵循 [MIT License](LICENSE)。请注意，工作流中使用的 AI 模型（如 Seedream）和剪映插件有其各自的商业使用条款，请遵守相关规定。
-
----
 
 <p align="center">
   Made with ❤️ by [Your Name/Team]
