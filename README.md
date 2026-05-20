@@ -114,5 +114,5 @@
 
 
 <p align="center">
-  Made with ❤️ by [Your Name/Team]
+  Made with ❤️ by [暴龙战士]
 </p>
