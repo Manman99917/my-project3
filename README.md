@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Coze-blue" alt="Platform">
   <img src="https://img.shields.io/badge/Output-Video%20%26%20Draft-red" alt="Output">
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 </p>
 
 > 一个基于 Coze 平台构建的自动化视频生成流水线，只需输入历史人物姓名，即可一键生成电影级叙事短视频草稿。
